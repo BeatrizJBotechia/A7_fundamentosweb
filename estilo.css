@@ -1,0 +1,57 @@
+
+#body{
+    text-align: center;
+}
+
+#h1{
+    color:black;
+    font-weight:bold;
+    font-family:system-ui;
+    font-size: 50px;
+}
+.h1{
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #ffffff;
+}
+
+.caixa{
+    height: 25px;
+    width: 400px;
+    background: #ffffff;
+    text-align:center;
+    margin:auto;
+}
+
+#h3{
+    color:white;
+    font-weight:bold;
+    font-family:system-ui;
+    font-size: 20px;
+}
+.h3{
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000;
+}
+#time{
+    color: white;
+    font-family: system-ui;
+    font-size: 40px;
+}
+/*.time{
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #ffffff;
+}*/
+#myImage{
+    width:20%;
+}
+
+.modalidade{
+    color: white;
+    font-weight:bold;
+    font-size: 20px;
+}
+.jogadores{
+    color: white;
+    font-weight:bold;
+    font-size: 20px;
+}
